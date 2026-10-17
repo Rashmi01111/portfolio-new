@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" fill="none">
+  <rect width="800" height="450" fill="#0a0f0a"/>
+  <rect x="0" y="0" width="800" height="450" fill="url(#bg)" opacity="0.5"/>
+  <circle cx="700" cy="80" r="100" fill="#10b981" opacity="0.15"/>
+  <rect x="180" y="100" width="440" height="300" rx="16" fill="#111a14" stroke="#10b981" stroke-width="1" opacity="0.8"/>
+  <rect x="200" y="120" width="120" height="100" rx="8" fill="#10b981" opacity="0.15"/>
+  <rect x="340" y="120" width="120" height="100" rx="8" fill="#14b8a6" opacity="0.15"/>
+  <rect x="480" y="120" width="120" height="100" rx="8" fill="#06b6d4" opacity="0.15"/>
+  <rect x="200" y="240" width="400" height="60" rx="8" fill="#ffffff" opacity="0.05"/>
+  <rect x="200" y="320" width="180" height="40" rx="20" fill="#10b981" opacity="0.3"/>
+  <text x="400" y="420" text-anchor="middle" fill="#10b981" font-family="Inter, sans-serif" font-size="24" font-weight="600" opacity="0.8">E-Commerce Platform</text>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="450">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+</svg>

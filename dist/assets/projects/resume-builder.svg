@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" fill="none">
+  <rect width="800" height="450" fill="#080a0f"/>
+  <rect x="0" y="0" width="800" height="450" fill="url(#bg)" opacity="0.4"/>
+  <rect x="200" y="80" width="400" height="320" rx="16" fill="#0f121a" stroke="#3b82f6" stroke-width="1" opacity="0.8"/>
+  <rect x="230" y="110" width="340" height="40" rx="8" fill="#3b82f6" opacity="0.2"/>
+  <rect x="230" y="170" width="340" height="8" rx="4" fill="#ffffff" opacity="0.15"/>
+  <rect x="230" y="190" width="280" height="8" rx="4" fill="#ffffff" opacity="0.1"/>
+  <rect x="230" y="210" width="300" height="8" rx="4" fill="#ffffff" opacity="0.08"/>
+  <rect x="230" y="240" width="340" height="8" rx="4" fill="#ffffff" opacity="0.06"/>
+  <rect x="230" y="260" width="200" height="8" rx="4" fill="#ffffff" opacity="0.06"/>
+  <rect x="230" y="310" width="160" height="40" rx="20" fill="#3b82f6" opacity="0.4"/>
+  <rect x="410" y="310" width="160" height="40" rx="20" fill="#6366f1" opacity="0.3"/>
+  <text x="400" y="420" text-anchor="middle" fill="#3b82f6" font-family="Inter, sans-serif" font-size="24" font-weight="600" opacity="0.8">AI Resume Builder</text>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="450">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+</svg>
