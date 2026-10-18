@@ -33,7 +33,7 @@ export const educationItems: EducationItem[] = [
     field: 'Computer Science',
     institution: 'University',
     cgpa: '8.1',
-    period: '2020 — 2024',
+    period: '2022 — 2026',
   },
 ]
 
